@@ -5,7 +5,7 @@
 The BitShares Blockchain Fees Parser is a tool, written in Python, with a desktop user interface that allows the user to select the start and end dates that he wants to aggregate the historical fee data for. Python's Tkinter library was used to create the desktop GUI for the application. 
 
 ## Motivation
-Apart from the historical data in graph form that the BitShares community publishes, there doesn't appear to be a good way to access that historical data stored on the blockchain in spreadsheet form, where it is readily available for data analysis. This project attempts to rectify this, allowing the user to begin parsing the blockchain himself for the information.
+While BitShares has multiple APIs and interfaces that users can use to access *current* market data and account information, there isn't an effective way to see historical data on the blockchain apart from just historical BTS market prices and volume. Although there are reports with historical data in graphical form that the BitShares community publishes, there doesn't appear to be a good way to access that historical data stored on the blockchain in spreadsheet form, where it is readily available for data analysis. This project attempts to rectify this, allowing the user to begin parsing the blockchain himself for the information.
 
 ## User Interface (user-interface.py)
 This is the main script and includes the code for the front-end user interface. The user inputs the Start and End Dates for the time period to conduct his analysis. 
