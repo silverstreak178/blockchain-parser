@@ -1,0 +1,4 @@
+bitshares==0.1.10
+tkinter==8.6.7
+tkcalendar
+pandas==0.21.0
