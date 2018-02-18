@@ -9,7 +9,7 @@ Apart from the historical data in graph form that the BitShares community publis
 
 ## User Interface (user-interface.py)
 This is the main script and includes the code for the front-end user interface. The user inputs the Start and End Dates for the time period to conduct his analysis. 
-![alt text] (https://user-images.githubusercontent.com/35355919/36349016-082856c6-144b-11e8-9f2d-a1d4dd4527e7.jpg "Using the BitShares Blockchain Fees Parser")
+![alt text](https://user-images.githubusercontent.com/35355919/36349016-082856c6-144b-11e8-9f2d-a1d4dd4527e7.jpg "Using the BitShares Blockchain Fees Parser")
 The output will be a saved CSV file with the aggregate fee information by date.
 
 ## Blockchain Parser (bts-blockchain-parser.py)
